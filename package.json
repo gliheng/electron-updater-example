@@ -23,6 +23,11 @@
     },
     "nsis": {
       "perMachine": true
-    }
+    },
+      "publish": [{
+          "provider": "github",
+          "owner": "gliheng",
+          "repo": "electron-updater-example"
+      }]
   }
 }
